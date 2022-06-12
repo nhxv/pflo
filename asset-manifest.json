@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pflo/static/css/main.8b07eafc.css",
-    "main.js": "/pflo/static/js/main.aab62b00.js",
+    "main.css": "/pflo/static/css/main.0206717d.css",
+    "main.js": "/pflo/static/js/main.4e2db42b.js",
     "static/js/787.1ed0c42c.chunk.js": "/pflo/static/js/787.1ed0c42c.chunk.js",
     "static/media/mangastore-2.png": "/pflo/static/media/mangastore-2.672835cc146e264e42ab.png",
     "static/media/unique-fashion.png": "/pflo/static/media/unique-fashion.693abff9721e36f3140c.png",
@@ -13,12 +13,12 @@
     "static/media/mangastore-admin.png": "/pflo/static/media/mangastore-admin.d23168f6a7d9074b5898.png",
     "static/media/vinh-cv.pdf": "/pflo/static/media/vinh-cv.57f55430c301f904a055.pdf",
     "index.html": "/pflo/index.html",
-    "main.8b07eafc.css.map": "/pflo/static/css/main.8b07eafc.css.map",
-    "main.aab62b00.js.map": "/pflo/static/js/main.aab62b00.js.map",
+    "main.0206717d.css.map": "/pflo/static/css/main.0206717d.css.map",
+    "main.4e2db42b.js.map": "/pflo/static/js/main.4e2db42b.js.map",
     "787.1ed0c42c.chunk.js.map": "/pflo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b07eafc.css",
-    "static/js/main.aab62b00.js"
+    "static/css/main.0206717d.css",
+    "static/js/main.4e2db42b.js"
   ]
 }
