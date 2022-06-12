@@ -13,14 +13,14 @@ export default function AboutPage() {
   <>
   <section className="text-neutral-300">
     <div className="flex lg:flex-row flex-col-reverse justify-center items-center">
-      <div>
+      <div className="animate fade-in-left">
         <img src={avatar} alt="avatar" className="mr-8 mt-6 lg:mt-0" height="375" width="375" />
       </div>
-      <div>
+      <div className="animate fade-in-right">
         <p className="font-semibold text-xl text-neutral-100">Hi, my name is Xuân Vinh;</p>
         <p className="text-neutral-500 text-xl">I'm a software developer.</p>
         <div className="flex flex-col sm:flex-row mt-8">
-          <a href={cv} target="_blank" rel="noreferrer"
+          <a href={cv} target="_blank" rel="noopener noreferrer"
           className="link-box sm:mr-6 mb-4 sm:mb-0">
             <i className="pi pi-file-pdf text-3xl"></i>
             <p className="mt-2">Resume</p>
@@ -40,7 +40,7 @@ export default function AboutPage() {
 
         <div className="mt-8">
           <p className="text-neutral-500">Email:</p>
-          <a href="mailto:ngohoangxuanvinh1995@gmail.com"className="link">ngohoangxuanvinh1995@gmail.com</a>
+          <a href="mailto:ngohoangxuanvinh1995@gmail.com" className="link">ngohoangxuanvinh1995@gmail.com</a>
           <p className="text-neutral-500 mt-4">Address:</p>
           <p>District 3 Ho Chi Minh City, Vietnam</p>
           <p className="text-neutral-500 mt-2">Phone number:</p>
@@ -50,7 +50,7 @@ export default function AboutPage() {
     </div>
 
     <div className="mt-8 flex justify-center">
-      <div className="2xl:px-80 sm:px-32 px-0">
+      <div className="2xl:px-80 sm:px-32 px-0 animate fade-in-up">
         <h6 className="text-xl font-semibold text-neutral-100">About me</h6>
         <div className="text-neutral-400">
           <p>
@@ -78,19 +78,17 @@ export default function AboutPage() {
           </p>
           <br />
           <p>
-            Aside from writing business oriented web applications, I've also been working on<a href="https://github.com/nhxv/beatup" className="link"> a little web dancing game</a>.
+            Aside from writing business oriented web applications, I've also been working on<a target="_blank" rel="noopener noreferrer" href="https://github.com/nhxv/beatup" className="link"> a little web dancing game</a>.
           </p>
           <br />
-          <p>
-            When not writing code, I read fictions, play collectible card games and listen to music.
-          </p>
+          <p>When not writing code, I read fictions, play collectible card games and listen to music.</p>
         </div>
 
       </div>
     </div>
 
     <div className="mt-8">
-      <div className="2xl:px-80 sm:px-32 px-0">
+      <div className="2xl:px-80 sm:px-32 px-0 animate fade-in-right">
         <h6 className="text-xl font-semibold text-neutral-100 mb-2">Technologies I've learned</h6>
         <div className="flex flex-wrap">
           <span className="my-1 mr-2 p-1 font-medium border-2 bg-neutral-800 border-cyan-300 text-cyan-300">
@@ -105,9 +103,9 @@ export default function AboutPage() {
     </div>
 
     <div className="mt-8">
-      <div className="2xl:px-80 sm:px-32 px-0">
+      <div className="2xl:px-80 sm:px-32 px-0 animate fade-in-left">
         <h6 className="text-xl font-semibold text-neutral-100">What I've done</h6>
-        <p>Check them out <span className="link" onClick={onViewProjects}>here →</span></p>
+        <p className="text-neutral-400">Check them out <span className="link" onClick={onViewProjects}>here →</span></p>
       </div>
     </div>
 

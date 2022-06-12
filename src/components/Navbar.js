@@ -15,7 +15,7 @@ function Navbar() {
 
   return (
   <>
-  <nav className="p-2 bg-transparent border mb-8 text-neutral-400  border-neutral-500 ">
+  <nav className="animate fade-in-down p-2 bg-transparent border mb-8 text-neutral-400  border-neutral-500 ">
     <div className="container flex flex-wrap justify-between items-center mx-auto">
       <NavLink to="/about" className="flex items-center ml-2">
         <span className="self-center text-xl font-semibold whitespace-nowrap">
