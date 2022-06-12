@@ -20,7 +20,7 @@ export default function AboutPage() {
         <p className="font-semibold text-xl text-neutral-100">Hi, my name is Xuân Vinh;</p>
         <p className="text-neutral-500 text-xl">I'm a software developer.</p>
         <div className="flex flex-col sm:flex-row mt-8">
-          <a href={cv} target="_blank"
+          <a href={cv} target="_blank" rel="noreferrer"
           className="link-box sm:mr-6 mb-4 sm:mb-0">
             <i className="pi pi-file-pdf text-3xl"></i>
             <p className="mt-2">Resume</p>
