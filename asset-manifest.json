@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pflo/static/css/main.cbe749ab.css",
-    "main.js": "/pflo/static/js/main.0a3dccdf.js",
+    "main.js": "/pflo/static/js/main.e029b0f8.js",
     "static/js/787.1ed0c42c.chunk.js": "/pflo/static/js/787.1ed0c42c.chunk.js",
     "static/media/mangastore-2.png": "/pflo/static/media/mangastore-2.672835cc146e264e42ab.png",
     "static/media/unique-fashion.png": "/pflo/static/media/unique-fashion.693abff9721e36f3140c.png",
@@ -17,11 +17,11 @@
     "static/media/vinh-cv.pdf": "/pflo/static/media/vinh-cv.f00daf48734f39c1c472.pdf",
     "index.html": "/pflo/index.html",
     "main.cbe749ab.css.map": "/pflo/static/css/main.cbe749ab.css.map",
-    "main.0a3dccdf.js.map": "/pflo/static/js/main.0a3dccdf.js.map",
+    "main.e029b0f8.js.map": "/pflo/static/js/main.e029b0f8.js.map",
     "787.1ed0c42c.chunk.js.map": "/pflo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbe749ab.css",
-    "static/js/main.0a3dccdf.js"
+    "static/js/main.e029b0f8.js"
   ]
 }
