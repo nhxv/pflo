@@ -14,7 +14,7 @@ export default function AboutPage() {
   <section className="text-neutral-300">
     <div className="flex lg:flex-row flex-col-reverse justify-center items-center">
       <div className="animate fade-in-left">
-        <img src={avatar} alt="avatar" className="mr-8 mt-6 lg:mt-0" height="375" width="375" />
+        <img src={avatar} alt="avatar" className="mr-8 mt-6 lg:mt-0" height="375" width="375" loading="lazy" />
       </div>
       <div className="animate fade-in-right">
         <p className="font-semibold text-xl text-neutral-100">Hi, my name is Xuân Vinh;</p>
@@ -55,24 +55,23 @@ export default function AboutPage() {
         <div className="text-neutral-400">
           <p>
             I decided to pursue a career in web development after completing a basic Python course in Winter of 2018. 
-            Since then I've been taking programming courses in college (Java core & data structures, SQL) as well as 
+            Since then I've been taking programming courses in college (
+              <a href="https://github.com/nhxv/college-java-core" className="link" target="_blank" rel="noopener noreferrer">Java core </a> & 
+              <a href="https://github.com/nhxv/college-data-structures" className="link" target="_blank" rel="noopener noreferrer"> data structures </a>, SQL) as well as 
             studying modern web frontend (HTML, CSS, JS) and common web frameworks (React, Angular2+, jQuery, Bootstrap, Spring Boot) 
             from various online resources (Freecodecamp, MDN,<a href="https://github.com/nhxv/mooc.fi-part-2" 
             target="_blank"  rel="noopener noreferrer" className="link"> MOOC.fi</a>, Udemy, F8).
           </p>
           <br />
           <p>
-            After learning Angular and Spring Boot, I built 
-            <a href="https://github.com/nhxv/task-manager" target="_blank"  rel="noopener noreferrer" 
-            className="link"> a task management fullstack web application </a>
-            to help with my family's business, then collaborated with my friend on
+            After learning Angular and Spring Boot, I built <a href="https://github.com/nhxv/task-manager" className="link" target="_blank" rel="noopener noreferrer"> a task management fullstack web application</a>, then collaborated with my friend on
             <a href="https://github.com/nhxv/uq-ecommerce" target="_blank"  rel="noopener noreferrer" 
-            className="link"> a fullstack clothing e-commerce web application </a> 
+            className="link"> a clothing e-commerce fullstack web application </a> 
             after all his teammates bailed on him.
             While working as an inventory clerk at SwiftPOD, I wrote a Chrome extension that ultilizes keyboard shortcuts
             to fill out shipping form on shipstation.com faster and more accurate.
             Recently I've been trying out React ecosystem by building<a href="https://github.com/nhxv/ms" target="_blank"  rel="noopener noreferrer"  
-            className="link"> a manga fullstack e-commerce web application </a>
+            className="link"> a manga e-commerce fullstack web application </a>
             and dabbling with <a href="https://github.com/nhxv/discord-bot" target="_blank"  rel="noopener noreferrer"  
             className="link"> Discord Bot API</a>.
           </p>
