@@ -80,7 +80,7 @@ export default function ProjectPage() {
             <span className="my-1 mr-2 p-1 font-medium border-2  
             bg-neutral-800 border-neutral-300 text-neutral-300">MySQL</span>
           </div>
-          <p className="my-4 text-neutral-400">A clothing e-commerce fullstack web application. This is FPT Aptech final project.</p>
+          <p className="my-4 text-neutral-400">A clothing e-commerce fullstack web application based on FPT Aptech final project requirements.</p>
           <a href="https://github.com/nhxv/uq-ecommerce" target="_blank"  rel="noopener noreferrer"
           className="link">View on Github</a>
         </div>
@@ -136,7 +136,7 @@ export default function ProjectPage() {
         </div>
         
         <div className="p-6">
-          <h6 className="font-semibold text-lg mb-1">Gan Cube</h6>
+          <h6 className="font-semibold text-lg mb-1">Rubik's Landing Page</h6>
           <div className="flex flex-row flex-wrap">
             <span className="my-1 mr-2 p-1 font-medium border-2  
             bg-neutral-800 border-orange-400 text-orange-400">HTML</span>

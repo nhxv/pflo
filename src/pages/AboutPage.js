@@ -64,20 +64,19 @@ export default function AboutPage() {
           </p>
           <br />
           <p>
-            After learning Angular and Spring Boot, I built <a href="https://github.com/nhxv/task-manager" className="link" target="_blank" rel="noopener noreferrer"> a task management fullstack web application</a>, then collaborated with my friend on
+            After learning Angular and Spring Boot, I built <a href="https://github.com/nhxv/task-manager" className="link" target="_blank" rel="noopener noreferrer"> a task management fullstack web application</a> to help with family's business, then collaborated with my friend on
             <a href="https://github.com/nhxv/uq-ecommerce" target="_blank"  rel="noopener noreferrer" 
-            className="link"> a clothing e-commerce fullstack web application </a> 
-            after all his teammates bailed on him.
+            className="link"> a clothing e-commerce fullstack web application </a>based on FPT final project requirements.
             While working as an inventory clerk at SwiftPOD, I wrote a Chrome extension that ultilizes keyboard shortcuts
             to fill out shipping form on shipstation.com faster and more accurate.
             Recently I've been trying out React ecosystem by building<a href="https://github.com/nhxv/ms" target="_blank"  rel="noopener noreferrer"  
-            className="link"> a manga e-commerce fullstack web application </a>
-            and dabbling with <a href="https://github.com/nhxv/discord-bot" target="_blank"  rel="noopener noreferrer"  
-            className="link"> Discord Bot API</a>.
+            className="link"> a manga e-commerce and a manga dashboard fullstack web application</a>.
           </p>
           <br />
           <p>
-            Aside from writing business oriented web applications, I've also been working on<a target="_blank" rel="noopener noreferrer" href="https://github.com/nhxv/beatup" className="link"> a little web dancing game</a>.
+            Aside from writing business oriented web applications, I've also been working on<a target="_blank" rel="noopener noreferrer" href="https://github.com/nhxv/beatup" className="link"> a little web dancing game </a>
+            and dabbling with <a href="https://github.com/nhxv/discord-bot" target="_blank"  rel="noopener noreferrer"  
+            className="link"> Discord Bot API</a>.
           </p>
           <br />
           <p>When not writing code, I read fictions, play collectible card games and listen to music.</p>
