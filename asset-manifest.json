@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pflo/static/css/main.cbe749ab.css",
-    "main.js": "/pflo/static/js/main.3f025087.js",
+    "main.js": "/pflo/static/js/main.f61799f3.js",
     "static/js/787.1ed0c42c.chunk.js": "/pflo/static/js/787.1ed0c42c.chunk.js",
     "static/media/mangastore-2.png": "/pflo/static/media/mangastore-2.672835cc146e264e42ab.png",
     "static/media/unique-fashion.png": "/pflo/static/media/unique-fashion.693abff9721e36f3140c.png",
@@ -9,19 +9,19 @@
     "static/media/linkedin-avatar-dark.png": "/pflo/static/media/linkedin-avatar-dark.b307e2aaee46105986f8.png",
     "static/media/gans.png": "/pflo/static/media/gans.14050abe65010789657a.png",
     "static/media/primeicons.svg": "/pflo/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/vinh-cv.pdf": "/pflo/static/media/vinh-cv.75e5dcce4ae9c4e611cc.pdf",
     "static/media/task-manager.png": "/pflo/static/media/task-manager.373b5b9262b770bf66c4.png",
     "static/media/primeicons.eot": "/pflo/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
     "static/media/primeicons.woff": "/pflo/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
     "static/media/primeicons.ttf": "/pflo/static/media/primeicons.91bacab1f083f2795272.ttf",
     "static/media/mangastore-admin.png": "/pflo/static/media/mangastore-admin.d23168f6a7d9074b5898.png",
-    "static/media/vinh-cv.pdf": "/pflo/static/media/vinh-cv.e4d9e5135b952a339664.pdf",
     "index.html": "/pflo/index.html",
     "main.cbe749ab.css.map": "/pflo/static/css/main.cbe749ab.css.map",
-    "main.3f025087.js.map": "/pflo/static/js/main.3f025087.js.map",
+    "main.f61799f3.js.map": "/pflo/static/js/main.f61799f3.js.map",
     "787.1ed0c42c.chunk.js.map": "/pflo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbe749ab.css",
-    "static/js/main.3f025087.js"
+    "static/js/main.f61799f3.js"
   ]
 }
